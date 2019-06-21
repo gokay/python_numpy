@@ -12,11 +12,11 @@
 
 # Jupyter Notebooks
 
-[Array Input and Output](https://nbviewer.jupyter.org/github/gokay/python_numpy/blob/master/Array%20Input%20and%20Output.ipynb)
-[Array Processing](https://nbviewer.jupyter.org/github/gokay/python_numpy/blob/master/Array%20Processing.ipynb)
-[Array Transposition](https://nbviewer.jupyter.org/github/gokay/python_numpy/blob/master/Array%20Transposition.ipynb)
-[Creating Arrays](https://nbviewer.jupyter.org/github/gokay/python_numpy/blob/master/Creating%20Arrays.ipynb)
-[Indexing Arrays](https://nbviewer.jupyter.org/github/gokay/python_numpy/blob/master/Indexing%20Arrays.ipynb)
-[Universal Array Functions](https://nbviewer.jupyter.org/github/gokay/python_numpy/blob/master/Universal%20Array%20Functions.ipynb)
-[Using arrays and scalars](https://nbviewer.jupyter.org/github/gokay/python_numpy/blob/master/Using%20arrays%20and%20scalars.ipynb)
+1. [Array Input and Output](https://nbviewer.jupyter.org/github/gokay/python_numpy/blob/master/Array%20Input%20and%20Output.ipynb)
+2. [Array Processing](https://nbviewer.jupyter.org/github/gokay/python_numpy/blob/master/Array%20Processing.ipynb)
+3. [Array Transposition](https://nbviewer.jupyter.org/github/gokay/python_numpy/blob/master/Array%20Transposition.ipynb)
+4. [Creating Arrays](https://nbviewer.jupyter.org/github/gokay/python_numpy/blob/master/Creating%20Arrays.ipynb)
+5. [Indexing Arrays](https://nbviewer.jupyter.org/github/gokay/python_numpy/blob/master/Indexing%20Arrays.ipynb)
+6. [Universal Array Functions](https://nbviewer.jupyter.org/github/gokay/python_numpy/blob/master/Universal%20Array%20Functions.ipynb)
+7. [Using arrays and scalars](https://nbviewer.jupyter.org/github/gokay/python_numpy/blob/master/Using%20arrays%20and%20scalars.ipynb)
 
