@@ -1,6 +1,6 @@
 ![](https://github.com/gokay/python_numpy/blob/master/python_numpy.png)
 
-# Python 3.7.x and SqLite 3 examples
+# Python 3.7.x and Numpy examples
 
 
 ## For [Python 3.7.x](https://docs.python.org/3.7/library/index.html) documentation
