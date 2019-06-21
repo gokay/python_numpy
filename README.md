@@ -8,3 +8,8 @@
 ## For [Numpy](https://docs.scipy.org/doc/numpy/dev/) documentation
 
 ## [Padao](https://pandao.github.io/editor.md/en.html) markdown editor used for this file
+
+
+# Jupyter Notebooks
+[Jupyter Notebooks](https://nbviewer.jupyter.org/github/gokay/python_numpy/tree/master/)
+
