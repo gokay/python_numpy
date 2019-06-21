@@ -1,4 +1,4 @@
-![](https://github.com/gokay/python_sqlite/blob/master/sqlite-and-python.png)
+![](https://github.com/gokay/python_numpy/blob/master/python_numpy.png)
 
 # Python 3.7.x and SqLite 3 examples
 
